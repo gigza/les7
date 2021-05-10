@@ -1,0 +1,17 @@
+.store {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.availableProducts {
+    display: flex;
+}
+
+.image_1, .image_2, .image_3, .image_4 {
+    width: 200px;
+    height: 200px;
+
+}
+
